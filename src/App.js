@@ -4,6 +4,7 @@ import Services from "./components/Services/Services";
 import "./App.css";
 import Experience from "./components/Experience/Experience";
 import Works from "./components/Works/Works";
+import Linkedin from "./components/linkedin/linkedin";
 import Portfolio from "./components/Portfolio/Portfolio";
 import Testimonial from "./components/Testimonials/Testimonial";
 import Contact from "./components/Contact/Contact";
@@ -28,6 +29,7 @@ function App() {
       <Works />
       <Contact />
       <Footer />
+      <Linkedin/>
     </div>
   );
 }
