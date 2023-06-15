@@ -27,9 +27,9 @@ function App() {
       <Services />
       <Experience />
       <Works />
+      <Linkedin />
       <Contact />
       <Footer />
-      <Linkedin/>
     </div>
   );
 }

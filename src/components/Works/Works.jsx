@@ -4,6 +4,7 @@ import mnrega from "../../img/mnrega.png";
 import uco from "../../img/uco.png";
 import sbi from "../../img/sbi.jpg";
 import pnb from "../../img/pnb.webp";
+import crisil from "../../img/crisil.png";
 import Facebook from "../../img/Facebook.png";
 import coop from "../../img/coop.png";
 import { themeContext } from "../../Context";
@@ -55,7 +56,7 @@ const Works = () => {
           className="w-mainCircle"
         >
           <div className="w-secCircle">
-            <img src={coop} alt="" />
+            <img src={crisil} alt="" />
           </div>
           <div className="w-secCircle">
             <img src={mnrega} alt="" />

@@ -2,7 +2,8 @@ import React, { useContext } from "react";
 import "./Intro.css";
 import Vector1 from "../../img/Vector1.png";
 import Vector2 from "../../img/Vector2.png";
-import main from "../../img/main.png";
+// import main from "../../img/main.png";
+import main from "../../img/pic.png";
 import glassesimoji from "../../img/glassesimoji.png";
 import thumbup from "../../img/thumbup.png";
 import crown from "../../img/crown.png";
@@ -52,7 +53,7 @@ const Intro = () => {
           initial={{ left: "-36%" }}
           whileInView={{ left: "-24%" }}
           transition={transition}
-          src={glassesimoji}
+          // src={glassesimoji}
           alt=""
         />
 
@@ -73,7 +74,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="Product " text2="Pitching" />
+          <FloatinDiv img={thumbup} text1="Analyst " />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
