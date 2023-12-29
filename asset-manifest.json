@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.548e75db.css",
-    "main.js": "/static/js/main.483b6ea5.js",
+    "main.js": "/static/js/main.5d995322.js",
     "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
-    "static/media/pic.png": "/static/media/pic.df4b39fdc5a0d1ce31aa.png",
+    "static/media/pic.png": "/static/media/pic.f80e2674e16fdb042cb9.png",
     "static/media/chandra.jpeg": "/static/media/chandra.8c9602ae5bb60675af94.jpeg",
     "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/sunny.jpeg": "/static/media/sunny.cfbb61b0fe39c8c4576e.jpeg",
@@ -22,10 +22,10 @@
     "static/media/pnb.webp": "/static/media/pnb.27d1513267cd00966ecd.webp",
     "index.html": "/index.html",
     "main.548e75db.css.map": "/static/css/main.548e75db.css.map",
-    "main.483b6ea5.js.map": "/static/js/main.483b6ea5.js.map"
+    "main.5d995322.js.map": "/static/js/main.5d995322.js.map"
   },
   "entrypoints": [
     "static/css/main.548e75db.css",
-    "static/js/main.483b6ea5.js"
+    "static/js/main.5d995322.js"
   ]
 }
